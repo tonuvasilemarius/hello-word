@@ -1,4 +1,4 @@
 # hello-word
-Time-honored tradition project
+Time-honored tradition project.
 
 Hi, everybody! :)
